@@ -1,0 +1,8 @@
+id_cliente;nome;telefone;email;cpf;id_endereco;cidade;estado;logradouro;id_usuario;login;senha
+;;;;; 2,0;Aracaju;Sergipe;Rua 31;;;
+;;;;; 4,0;São Paulo;São Paulo;Avenida H;;;
+;;;;;;;;; 1,0;admin;admin
+;;;;;;;;; 2,0;robson; 123456,0
+;;;;;;;;; 3,0;caio; 123456,0
+;;;;;;;;; 4,0;pedro; 123456,0
+;;;;;;;;; 5,0;gabriel; 123456,0
